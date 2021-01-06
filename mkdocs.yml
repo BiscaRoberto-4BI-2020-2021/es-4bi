@@ -1,1 +1,8 @@
+site_name: Bisca_Roberto
 
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.txt'
+theme:
+  name: readthedocs
